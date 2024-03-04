@@ -1,3 +1,4 @@
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Playvora1/project-script/main/dex%20v4%20original%20source%20code.lua"))()
 CreateGui = function()
 	local NewGuiPart1 = Instance.new("ScreenGui")
 	local NewGuiPart2 = Instance.new("Frame")
