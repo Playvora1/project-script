@@ -1,4 +1,4 @@
--- mobile support
+-- mobile support loadstring(game:HttpGet("https://raw.githubusercontent.com/Playvora1/project-script/main/dex_mobile_support.txt"))()
 
 local nodes = {}
 local selection
