@@ -18,7 +18,6 @@ tornado alley ultimate: loadstring(game:HttpGet('https://raw.githubusercontent.c
 
 
 
-dex:loadstring(game:HttpGet('https://raw.githubusercontent.com/Playvora1/project-script/main/dex%20mobile%20support.txt'))()
 
 
 
