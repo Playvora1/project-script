@@ -27,7 +27,7 @@ the red lake: loadstring(game:HttpGet('https://raw.githubusercontent.com/Playvor
 
 
 
-universal tp to subplaces: loadstring(game:HttpGet('https://raw.githubusercontent.com/Playvora1/project-script/main/universal%20tp%20to%20subplaces.lua'))()
+universal tp to subplaces:
 https://scriptblox.com/script/Universal-Script-teleport-to-subplaces-11425
 
 
