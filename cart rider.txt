@@ -34,5 +34,5 @@ end)
 
 
 section:Button("Button", function()
-   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = 1
+   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = true
 end) -- Args(<String> Name, <Function> Callback)
