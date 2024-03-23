@@ -33,6 +33,7 @@ section:Button("Tween To Cart Giver", function()
 end)
 
 
-section:Button("Button", function()
-   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = true
+local toggle = section:Toggle("Toggle", function(bool)
+   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = bool
 end) -- Args(<String> Name, <Function> Callback)
+toggle:Set(false) -- Args(<Boolean> ToggleState, <Function?> Callback)
