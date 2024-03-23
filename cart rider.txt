@@ -33,7 +33,6 @@ section:Button("Tween To Cart Giver", function()
 end)
 
 
-local toggle = section:Toggle("Get Track Magnet Gamepass", function(bool)
-   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = bool
+section:Button("Button", function()
+   game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = true
 end) -- Args(<String> Name, <Function> Callback)
-toggle:Set(false) -- Args(<Boolean> ToggleState, <Function?> Callback)
